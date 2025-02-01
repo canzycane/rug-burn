@@ -13,5 +13,5 @@ To install this project, follow these steps:
 
 To use this project, follow these steps:
 
-1. Run the application: `node app.js`
+1. Run the application: `npx nodemon server.js`
 2. Open your browser and go to: `http://localhost:3000`
